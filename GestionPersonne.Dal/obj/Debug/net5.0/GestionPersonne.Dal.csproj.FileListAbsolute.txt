@@ -1,0 +1,15 @@
+C:\Users\johan\source\repos\GestionPersonnes\GestionPersonne.Dal\bin\Debug\net5.0\GestionPersonne.Dal.deps.json
+C:\Users\johan\source\repos\GestionPersonnes\GestionPersonne.Dal\bin\Debug\net5.0\GestionPersonne.Dal.runtimeconfig.json
+C:\Users\johan\source\repos\GestionPersonnes\GestionPersonne.Dal\bin\Debug\net5.0\GestionPersonne.Dal.runtimeconfig.dev.json
+C:\Users\johan\source\repos\GestionPersonnes\GestionPersonne.Dal\bin\Debug\net5.0\GestionPersonne.Dal.dll
+C:\Users\johan\source\repos\GestionPersonnes\GestionPersonne.Dal\bin\Debug\net5.0\ref\GestionPersonne.Dal.dll
+C:\Users\johan\source\repos\GestionPersonnes\GestionPersonne.Dal\bin\Debug\net5.0\GestionPersonne.Dal.pdb
+C:\Users\johan\source\repos\GestionPersonnes\GestionPersonne.Dal\obj\Debug\net5.0\GestionPersonne.Dal.csprojAssemblyReference.cache
+C:\Users\johan\source\repos\GestionPersonnes\GestionPersonne.Dal\obj\Debug\net5.0\GestionPersonne.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\source\repos\GestionPersonnes\GestionPersonne.Dal\obj\Debug\net5.0\GestionPersonne.Dal.AssemblyInfoInputs.cache
+C:\Users\johan\source\repos\GestionPersonnes\GestionPersonne.Dal\obj\Debug\net5.0\GestionPersonne.Dal.AssemblyInfo.cs
+C:\Users\johan\source\repos\GestionPersonnes\GestionPersonne.Dal\obj\Debug\net5.0\GestionPersonne.Dal.csproj.CoreCompileInputs.cache
+C:\Users\johan\source\repos\GestionPersonnes\GestionPersonne.Dal\obj\Debug\net5.0\GestionPersonne.Dal.dll
+C:\Users\johan\source\repos\GestionPersonnes\GestionPersonne.Dal\obj\Debug\net5.0\ref\GestionPersonne.Dal.dll
+C:\Users\johan\source\repos\GestionPersonnes\GestionPersonne.Dal\obj\Debug\net5.0\GestionPersonne.Dal.pdb
+C:\Users\johan\source\repos\GestionPersonnes\GestionPersonne.Dal\obj\Debug\net5.0\GestionPersonne.Dal.genruntimeconfig.cache
